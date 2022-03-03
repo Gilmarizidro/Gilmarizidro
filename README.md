@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any project that appears
 - 📫 you will find me on facebook gilmar izidro
-- 
 
 ░░ ░░░░▄░░░░░░░░░ ▄ 
 ░░░░░░░░▌▒█░░░░░░░░░░░▄▀▒▌ 
